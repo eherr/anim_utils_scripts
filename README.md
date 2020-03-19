@@ -1,6 +1,8 @@
 # Example Scripts
 
-Example scripts for the [anim_utils](https://github.com/eherr/anim_utils) library.   
+Example retargeting script using the [anim_utils](https://github.com/eherr/anim_utils) library.   
+
+New skeleton models can be created using the skeleton model editor that is part of the [motion preprocessing tool](https://github.com/eherr/motion_preprocessing_tool).
 
 ## License
 Copyright (c) 2019 DFKI GmbH.  
