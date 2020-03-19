@@ -7,3 +7,5 @@ New skeleton models can be created using the skeleton model editor that is part 
 ## License
 Copyright (c) 2019 DFKI GmbH.  
 MIT License, see the LICENSE file.
+
+The file data/bvh/mh_cmu_skeleton_pose.bvh was generated using the tool [make human](http://www.makehumancommunity.org/).
